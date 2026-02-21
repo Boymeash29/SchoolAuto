@@ -13,6 +13,7 @@ python annotate.py
 ```
 - Opens a website to upload a PDF
 - Once it finishes generating it prompts a download
+  
 **Requirements:**
 ```bash
 pip install flask pdfplumber requests pymupdf
